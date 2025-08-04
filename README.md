@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering (1st Year)**  
+- 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering (2nd Year)**  
 - 🌱 I’m learning **Full Stack Web Development, UI/UX, and AI**
   
 <h5>How to reach me : amani1231.aasram@gmail.com </h5>
