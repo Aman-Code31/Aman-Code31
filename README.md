@@ -10,11 +10,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Code31&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Code31&layout=compact&theme=radical)
 
----
 
 ## ✨ Let's Build Something Amazing Together!
 
